@@ -1,6 +1,6 @@
-# Python Accounting Practice: Trial Balance Challenge
+# Python Accounting Practice: Trial Balance Challenge and more
 
-This project simulates journal entries and generates a trial balance for a fictional business using Python. It also exports the results to an Excel spreadsheet using `openpyxl`.
+This project simulates journal entries and generates a trial balance for a fictional business using Python. It also exports the results to an Excel spreadsheet using `openpyxl`. I will be adding more projects in this file that will pertain to the subject of accounting.
 
 ## Features
 
