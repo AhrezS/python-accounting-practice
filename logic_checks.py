@@ -56,3 +56,23 @@ entries = [
 
 for e in entries:
     print(f"{e}: {validate_entry(e)}")
+    
+# Mini Challenge: Entry Scorecard
+valid = 0
+invalid = 0
+warning = 0
+
+for e in entries:
+    result = validate_entry(e)
+    
+    if "✅" in result:
+        valid += 1
+    elif "❌" in result:
+        invalid += 1
+    elif "⚠️" in result:
+        warning += 1
+
+print("\nEntry Scorecard:")
+print("Valid Entries:", valid)
+print("Invalid Entries:", invalid)
+print("Warnings:", warning)
