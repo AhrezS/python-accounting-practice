@@ -1,0 +1,7 @@
+🔍 Reconciliation Report
+
+❌ Cash                      mismatch: Actual = 100, Expected = 200
+✅ Revenue                   matches expected balance: -2500
+✅ Office Supplies           matches expected balance: 500
+✅ Accounts Receivable       matches expected balance: 1500
+✅ Bank Charges              matches expected balance: 300
